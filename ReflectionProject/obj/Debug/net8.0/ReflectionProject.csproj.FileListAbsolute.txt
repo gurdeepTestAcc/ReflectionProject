@@ -1,0 +1,14 @@
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\bin\Debug\net8.0\ReflectionProject.exe
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\bin\Debug\net8.0\ReflectionProject.deps.json
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\bin\Debug\net8.0\ReflectionProject.runtimeconfig.json
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\bin\Debug\net8.0\ReflectionProject.dll
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\bin\Debug\net8.0\ReflectionProject.pdb
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\ReflectionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\ReflectionProject.AssemblyInfoInputs.cache
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\ReflectionProject.AssemblyInfo.cs
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\ReflectionProject.csproj.CoreCompileInputs.cache
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\ReflectionProject.dll
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\refint\ReflectionProject.dll
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\ReflectionProject.pdb
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\ReflectionProject.genruntimeconfig.cache
+C:\Users\sandh\source\repos\ReflectionProject\ReflectionProject\obj\Debug\net8.0\ref\ReflectionProject.dll

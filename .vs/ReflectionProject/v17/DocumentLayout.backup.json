@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F69B71D-D0BB-4427-85B8-0881646A0AE7}|ReflectionProject\\ReflectionProject.csproj|c:\\users\\sandh\\source\\repos\\reflectionproject\\reflectionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F69B71D-D0BB-4427-85B8-0881646A0AE7}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F69B71D-D0BB-4427-85B8-0881646A0AE7}|ReflectionProject\\ReflectionProject.csproj|c:\\users\\sandh\\source\\repos\\reflectionproject\\reflectionproject\\invokefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F69B71D-D0BB-4427-85B8-0881646A0AE7}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\invokefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F69B71D-D0BB-4427-85B8-0881646A0AE7}|ReflectionProject\\ReflectionProject.csproj|c:\\users\\sandh\\source\\repos\\reflectionproject\\reflectionproject\\testclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F69B71D-D0BB-4427-85B8-0881646A0AE7}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\testclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F69B71D-D0BB-4427-85B8-0881646A0AE7}|ReflectionProject\\ReflectionProject.csproj|c:\\users\\sandh\\source\\repos\\reflectionproject\\reflectionproject\\testclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F69B71D-D0BB-4427-85B8-0881646A0AE7}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\testclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestClass2.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\ReflectionProject\\TestClass2.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\TestClass2.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\ReflectionProject\\TestClass2.cs",
+              "RelativeToolTip": "ReflectionProject\\TestClass2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:17:04.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestClass1.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\ReflectionProject\\TestClass1.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\TestClass1.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\ReflectionProject\\TestClass1.cs",
+              "RelativeToolTip": "ReflectionProject\\TestClass1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:39:50.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvokeFunction.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\ReflectionProject\\InvokeFunction.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\InvokeFunction.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\ReflectionProject\\InvokeFunction.cs",
+              "RelativeToolTip": "ReflectionProject\\InvokeFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:38:16.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\ReflectionProject\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\Program.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\ReflectionProject\\ReflectionProject\\Program.cs",
+              "RelativeToolTip": "ReflectionProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:36:49.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
